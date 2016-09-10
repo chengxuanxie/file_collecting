@@ -1,6 +1,9 @@
+﻿this program is to collect files with some certain extension in you disk( such as :'avi' 'txt' 'mp4' or other extensions you input) 本程序用于收集硬盘中具有指定扩展名的文件（比如：'avi' 'txt' 'mp4'或者其他由用户输入的扩展名）
+
 this is the first version of filemoving
 this program collect all the movies from the source folder(including its subfolder),
 then cut all the detected files to destination folder.
 
 这是第一版程序
 这个程序会搜索源目录下的所有视频文件，并将其剪切至目标文件夹
+
