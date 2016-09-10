@@ -1,0 +1,6 @@
+this is the first version of filemoving
+this program collect all the movies from the source folder(including its subfolder),
+then cut all the detected files to destination folder.
+
+这是第一版程序
+这个程序会搜索源目录下的所有视频文件，并将其剪切至目标文件夹
